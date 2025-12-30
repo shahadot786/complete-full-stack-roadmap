@@ -302,7 +302,6 @@ feature branches
 
 ### Resources
 - [Pro Git Book](https://git-scm.com/book/en/v2) (Free)
-- [GitHub Learning Lab](https://lab.github.com/)
 - [Oh My Git!](https://ohmygit.org/) (Interactive game)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 

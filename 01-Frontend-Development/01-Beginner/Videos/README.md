@@ -116,7 +116,6 @@
 
 - **[React Conf](https://www.youtube.com/@ReactConfOfficial)**
 - **[JSConf](https://www.youtube.com/@jsconf_)**
-- **[CSS Day](https://www.youtube.com/@CSSdayConf)**
 
 ---
 

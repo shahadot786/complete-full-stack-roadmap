@@ -176,4 +176,3 @@ function Modal({ children, isOpen }) {
 ## Resources
 
 - [React Patterns](https://reactpatterns.com/)
-- [Advanced React Patterns](https://kentcdodds.com/blog/advanced-react-patterns)

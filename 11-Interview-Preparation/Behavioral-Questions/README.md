@@ -367,7 +367,6 @@ Ask about:
 ## 📚 Resources
 
 - [STAR Method Guide](https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique)
-- [Behavioral Interview Questions](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer)
 - [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 
 ---

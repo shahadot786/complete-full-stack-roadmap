@@ -35,7 +35,6 @@ Create a professional portfolio website to showcase your work and skills.
 1-2 weeks
 
 ### 📚 Resources
-- [Portfolio Design Inspiration](https://www.awwwards.com/websites/portfolio/)
 - [Responsive Design Tutorial](https://www.youtube.com/watch?v=srvUrASNj0s)
 
 ---
