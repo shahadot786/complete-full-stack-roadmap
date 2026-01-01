@@ -1,35 +1,39 @@
-# 🗄️ Databases & Storage
+# 🗄️ Database & Storage Roadmap
 
-Master data storage, retrieval, and management.
+Master data persistence from SQL fundamentals to distributed systems.
 
-## 📚 Learning Path
+## 🗺️ Learning Path
 
-### 01-Beginner
-- SQL fundamentals
-- Database design
-- CRUD operations
-- Basic queries
+### 🟢 01-Beginner (0-3 months)
+*Focus: SQL Foundations & Database Design*
+- [SQL Basics](./01-Beginner/SQL-Basics/) - Query language fundamentals
+- [Database Design](./01-Beginner/Database-Design/) - Normalization, schemas, relationships
 
-### 02-Intermediate
-- PostgreSQL
-- MongoDB
-- Redis
-- Query optimization
+### 🟡 02-Intermediate (3-6 months)
+*Focus: Production Databases*
+- [PostgreSQL](./02-Intermediate/PostgreSQL/) - The most advanced open-source RDBMS
+- [MongoDB](./02-Intermediate/MongoDB/) - Document-based NoSQL
 
-### 03-Advanced
-- Database optimization
-- Distributed databases
-- Replication & sharding
-- Database administration
+### 🔴 03-Advanced (6-12 months)
+*Focus: Performance & Scale*
+- [Database Optimization](./03-Advanced/Database-Optimization/) - Indexing, query tuning, caching
+- [Distributed Databases](./03-Advanced/Distributed-Databases/) - Sharding, replication, CAP theorem
 
-## 🎯 Database Types
-- **Relational**: PostgreSQL, MySQL
-- **NoSQL**: MongoDB, Cassandra
-- **In-Memory**: Redis, Memcached
-- **Graph**: Neo4j
+---
 
-## 🚀 Projects
-1. Library management system
-2. E-commerce database
-3. Social network schema
-4. Analytics warehouse
+## 🎯 Career Paths
+- **Database Administrator (DBA)**: Focus on operations, backup, security
+- **Data Engineer**: Focus on pipelines, ETL, data warehouses
+- **Backend Developer**: Focus on ORM, query optimization, schema design
+- **Solutions Architect**: Focus on database selection, scaling strategies
+
+## 🧰 Global Resources
+- [Cheatsheets](./Resources/Cheatsheets/) - SQL syntax quick references
+- [Tools](./Resources/Tools/) - Database management tools
+
+## 🏆 Project Portfolio Ideas
+1. **E-commerce Database** - Products, orders, users schema
+2. **Social Media Backend** - Posts, comments, relationships
+3. **Analytics Dashboard** - Aggregations and reporting
+4. **Real-time Chat** - MongoDB for flexible messages
+5. **Multi-tenant SaaS** - Database isolation strategies
