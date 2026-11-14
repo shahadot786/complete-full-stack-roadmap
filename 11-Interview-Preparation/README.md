@@ -228,7 +228,7 @@
   - "Designing Data-Intensive Applications" by Martin Kleppmann
   - "System Design Interview" by Alex Xu (Volumes 1 & 2)
 - **Courses:**
-  - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
   - [System Design Primer](https://github.com/donnemartin/system-design-primer) (Free GitHub repo)
 - **YouTube Channels:**
   - Gaurav Sen
