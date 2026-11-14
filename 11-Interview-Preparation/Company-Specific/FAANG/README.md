@@ -382,7 +382,7 @@
 
 **System Design:**
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
 **Behavioral:**
 - [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)

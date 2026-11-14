@@ -283,7 +283,7 @@ Response: Redirect to original URL
 
 **Websites:**
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [Grokking System Design](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking System Design](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
 **YouTube:**
 - Gaurav Sen
