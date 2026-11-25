@@ -365,7 +365,7 @@ Best regards,
 
 **System Design:**
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
 
 **Mock Interviews:**
 - [Pramp](https://www.pramp.com/)

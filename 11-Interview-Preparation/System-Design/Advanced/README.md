@@ -447,7 +447,7 @@ Request ID → Span across services
   - Raft Consensus
 
 - **Courses:**
-  - [Grokking Advanced System Design](https://www.educative.io/courses/grokking-adv-system-design-intvw)
+  - [Grokking Advanced System Design](https://www.designgurus.io/course/grokking-system-design-interview-ii)
 
 ---
 

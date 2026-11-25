@@ -467,7 +467,7 @@ PostgreSQL    Redis Cache    S3/CDN
   - "System Design Interview Vol 1 & 2" by Alex Xu
 
 - **Courses:**
-  - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
   - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 - **YouTube:**
