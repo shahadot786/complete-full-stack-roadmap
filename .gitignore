@@ -89,3 +89,6 @@ yarn-error.log*
 *.temp
 *.bak
 *.swp
+
+coverage/
+docs/

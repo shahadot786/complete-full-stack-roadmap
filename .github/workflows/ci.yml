@@ -1,0 +1,69 @@
+name: CI
+
+on:
+  push:
+    branches: [main, feature/roadmap-platform]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+      - uses: browser-actions/setup-chrome@v1
+        id: chrome
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm i18n:check
+      - run: pnpm content:check
+      - run: pnpm content:links
+      - run: pnpm test:coverage
+      - run: pnpm build
+        env:
+          CHROME_PATH: ${{ steps.chrome.outputs.chrome-path }}
+          VITE_SITE_URL: https://stackpath.pages.dev
+      - run: pnpm site:check
+      - run: pnpm e2e
+        env:
+          CHROME_PATH: ${{ steps.chrome.outputs.chrome-path }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-build
+          path: apps/web/build/client
+          retention-days: 7
+
+  lighthouse:
+    needs: verify
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: site-build
+          path: apps/web/build/client
+      - uses: treosh/lighthouse-ci-action@v11
+        with:
+          urls: |
+            http://localhost/
+            http://localhost/roadmaps/frontend/
+            http://localhost/roadmaps/frontend/html-css/
+            http://localhost/search/?q=html5
+          temporaryPublicPath: ./apps/web/build/client
+          configPath: ./lighthouserc.json
+          uploadArtifacts: true

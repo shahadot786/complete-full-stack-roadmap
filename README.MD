@@ -6,10 +6,39 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/yourusername/fullstack-roadmap?style=social)](https://github.com/yourusername/fullstack-roadmap) -->
 
+## 🌐 Browse the library as a website
+
+The paths in this repository are also published as **StackPath**: a visual map,
+one page per topic, curated links, and progress saved in your browser. Nothing
+is uploaded — the Markdown files below remain the source of truth.
+
+- Site: <https://stackpath.pages.dev> (set `VITE_SITE_URL` for another origin)
+- Frontend, backend and DevOps are fully mapped; the other nine domains are
+  generated outlines.
+- Run locally:
+
+  ```bash
+  pnpm install
+  pnpm content:build
+  pnpm dev
+  ```
+
+- Build and verify the static site:
+
+  ```bash
+  pnpm build
+  pnpm site:check
+  pnpm e2e
+  ```
+
+Edit a README, run `pnpm content:build`, and the generated site data updates with
+it.
+
 ---
 
 ## 📚 Table of Contents
 
+- [🌐 Browse the library as a website](#-browse-the-library-as-a-website)
 - [🎯 About This Mega Roadmap](#-about-this-mega-roadmap)
 - [🗺️ All Learning Paths](#️-all-learning-paths)
 - [📂 Repository Structure](#-repository-structure)
@@ -50,35 +79,35 @@ This repository is a **complete learning ecosystem** for aspiring and profession
 <tr>
 <td align="center" width="33%">
 
-### 🎨 [Frontend Development](./01-Frontend-Development)
+### 🎨 [Frontend Development](./packages/content/domains/01-Frontend-Development)
 
 **HTML • CSS • JavaScript • React • Vue • Angular**
 
 Master modern UI/UX development
 
-[Start Learning →](./01-Frontend-Development/README.md)
+[Start Learning →](./packages/content/domains/01-Frontend-Development/README.md)
 
 </td>
 <td align="center" width="33%">
 
-### ⚙️ [Backend Development](./02-Backend-Development)
+### ⚙️ [Backend Development](./packages/content/domains/02-Backend-Development)
 
 **Python • Node.js • Java • Go • PHP**
 
 Build robust server-side applications
 
-[Start Learning →](./02-Backend-Development/README.md)
+[Start Learning →](./packages/content/domains/02-Backend-Development/README.md)
 
 </td>
 <td align="center" width="33%">
 
-### 📱 [Mobile Development](./03-Mobile-Development)
+### 📱 [Mobile Development](./packages/content/domains/03-Mobile-Development)
 
 **React Native • Flutter • iOS • Android**
 
 Create cross-platform mobile apps
 
-[Start Learning →](./03-Mobile-Development/README.md)
+[Start Learning →](./packages/content/domains/03-Mobile-Development/README.md)
 
 </td>
 </tr>
@@ -86,35 +115,35 @@ Create cross-platform mobile apps
 <tr>
 <td align="center" width="33%">
 
-### 🔧 [DevOps & Cloud](./04-DevOps-Cloud)
+### 🔧 [DevOps & Cloud](./packages/content/domains/04-DevOps-Cloud)
 
 **Docker • Kubernetes • AWS • CI/CD**
 
 Master deployment & infrastructure
 
-[Start Learning →](./04-DevOps-Cloud/README.md)
+[Start Learning →](./packages/content/domains/04-DevOps-Cloud/README.md)
 
 </td>
 <td align="center" width="33%">
 
-### 📊 [Data Science](./05-Data-Science)
+### 📊 [Data Science](./packages/content/domains/05-Data-Science)
 
 **Python • R • SQL • Statistics • Visualization**
 
 Analyze data and extract insights
 
-[Start Learning →](./05-Data-Science/README.md)
+[Start Learning →](./packages/content/domains/05-Data-Science/README.md)
 
 </td>
 <td align="center" width="33%">
 
-### 🤖 [AI & Machine Learning](./06-AI-Machine-Learning)
+### 🤖 [AI & Machine Learning](./packages/content/domains/06-AI-Machine-Learning)
 
 **ML • Deep Learning • NLP • Computer Vision**
 
 Build intelligent systems
 
-[Start Learning →](./06-AI-Machine-Learning/README.md)
+[Start Learning →](./packages/content/domains/06-AI-Machine-Learning/README.md)
 
 </td>
 </tr>
@@ -122,35 +151,35 @@ Build intelligent systems
 <tr>
 <td align="center" width="33%">
 
-### 🗄️ [Database & Storage](./07-Database-Storage)
+### 🗄️ [Database & Storage](./packages/content/domains/07-Database-Storage)
 
 **SQL • NoSQL • Redis • MongoDB • PostgreSQL**
 
 Master data management
 
-[Start Learning →](./07-Database-Storage/README.md)
+[Start Learning →](./packages/content/domains/07-Database-Storage/README.md)
 
 </td>
 <td align="center" width="33%">
 
-### 🔐 [Cybersecurity](./08-Cybersecurity)
+### 🔐 [Cybersecurity](./packages/content/domains/08-Cybersecurity)
 
 **Security • Pentesting • Ethical Hacking**
 
 Protect systems and applications
 
-[Start Learning →](./08-Cybersecurity/README.md)
+[Start Learning →](./packages/content/domains/08-Cybersecurity/README.md)
 
 </td>
 <td align="center" width="33%">
 
-### 🎮 [Game Development](./09-Game-Development)
+### 🎮 [Game Development](./packages/content/domains/09-Game-Development)
 
 **Unity • Unreal • Pygame • Godot**
 
 Create interactive experiences
 
-[Start Learning →](./09-Game-Development/README.md)
+[Start Learning →](./packages/content/domains/09-Game-Development/README.md)
 
 </td>
 </tr>
@@ -158,35 +187,35 @@ Create interactive experiences
 <tr>
 <td align="center" width="33%">
 
-### ⛓️ [Blockchain & Web3](./10-Blockchain-Web3)
+### ⛓️ [Blockchain & Web3](./packages/content/domains/10-Blockchain-Web3)
 
 **Ethereum • Solidity • Smart Contracts • DApps**
 
 Build decentralized applications
 
-[Start Learning →](./10-Blockchain-Web3/README.md)
+[Start Learning →](./packages/content/domains/10-Blockchain-Web3/README.md)
 
 </td>
 <td align="center" width="33%">
 
-### 💼 [Interview Prep](./11-Interview-Preparation)
+### 💼 [Interview Prep](./packages/content/domains/11-Interview-Preparation)
 
 **DSA • System Design • Coding Challenges**
 
 Get job-ready
 
-[Start Learning →](./11-Interview-Preparation/README.md)
+[Start Learning →](./packages/content/domains/11-Interview-Preparation/README.md)
 
 </td>
 <td align="center" width="33%">
 
-### 🛠️ [Tools & Setup](./12-Tools-Setup)
+### 🛠️ [Tools & Setup](./packages/content/domains/12-Tools-Setup)
 
 **IDEs • Git • Terminal • Environment**
 
 Setup your development workspace
 
-[Start Learning →](./12-Tools-Setup/README.md)
+[Start Learning →](./packages/content/domains/12-Tools-Setup/README.md)
 
 </td>
 </tr>
@@ -196,13 +225,12 @@ Setup your development workspace
 
 ## 📂 Repository Structure
 
+All source Markdown lives in `packages/content/`: the 12 domain folders below
+are in `domains/`, and the graph-only extras are in `extra/`. The app and build
+tooling are in `apps/`, `packages/` and `tools/`.
+
 ```
-fullstack-development-roadmap/
-│
-├── 📖 README.md (You are here!)
-├── 📝 CONTRIBUTING.md
-├── 📜 LICENSE
-├── 🗺️ ROADMAP.md
+packages/content/domains/
 │
 ├── 01-Frontend-Development/
 │   ├── README.md (Frontend-specific guide)
@@ -609,8 +637,8 @@ App Deployment
 ### For Complete Beginners
 
 ```bash
-Week 1-2: Setup environment (12-Tools-Setup/)
-Week 3-8: Learn programming basics (02-Backend-Development/Python/01-Beginner/)
+Week 1-2: Setup environment (packages/content/domains/12-Tools-Setup/)
+Week 3-8: Learn programming basics (packages/content/domains/02-Backend-Development/Python/01-Beginner/)
 Week 9-12: Build first project
 Month 4+: Choose specialization
 ```
