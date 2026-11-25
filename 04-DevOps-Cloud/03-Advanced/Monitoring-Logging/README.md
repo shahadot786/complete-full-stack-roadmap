@@ -23,10 +23,6 @@ You can't fix what you can't see. Learn to track the health and performance of y
 - **Observability Engineering** by Charity Majors
 - **Site Reliability Engineering (SRE) Book** by Google
 
-## 🎥 Top Video Resources
-- [Prometheus & Grafana Tutorial (TechWorld with Nana)](https://www.youtube.com/watch?v=h4Sl21AK9f8)
-- [ELK Stack Course (FreeCodeCamp)](https://www.youtube.com/watch?v=9pG8p_f-M9E)
-
 ## 🛠️ Hands-on Projects
 1. **Grafana Dashboard:** Create a dashboard that visualizes your local machine's resource usage.
 2. **Prometheus Exporter:** Write a simple Python script that exports custom metrics to Prometheus.

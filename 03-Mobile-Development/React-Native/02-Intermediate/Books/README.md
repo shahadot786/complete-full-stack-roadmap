@@ -35,7 +35,6 @@
 
 - [React Query Tutorial](https://www.youtube.com/watch?v=VtWkSCZX0Ec) - TanStack Query basics
 - [Redux Toolkit Guide](https://redux-toolkit.js.org/tutorials/overview) - Official tutorials
-- [Zustand Tutorial](https://www.youtube.com/watch?v=KEc0LLQjGQI) - State management
 
 ---
 

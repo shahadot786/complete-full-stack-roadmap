@@ -4,12 +4,12 @@
 
 ## 📚 Table of Contents
 
-- [ES6+ Features](#es6-features)
-- [Async JavaScript](#async-javascript)
-- [DOM Manipulation](#dom-manipulation)
-- [Browser APIs](#browser-apis)
-- [Best Practices](#best-practices)
-- [Resources](#resources)
+- [ES6+ Features](#-es6-features)
+- [Async JavaScript](#️-async-javascript)
+- [DOM Manipulation](#-dom-manipulation)
+- [Browser APIs](#-browser-apis)
+- [Best Practices](#-best-practices)
+- [Resources](#-resources)
 
 ---
 

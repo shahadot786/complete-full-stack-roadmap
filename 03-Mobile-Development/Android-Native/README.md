@@ -10,11 +10,11 @@
 
 ## 📚 Table of Contents
 
-- [Why Native Android?](#why-native-android)
-- [Learning Path](#learning-path)
-- [Getting Started](#getting-started)
-- [Curriculum](#curriculum)
-- [Resources](#resources)
+- [Why Native Android?](#-why-native-android)
+- [Learning Path](#️-learning-path)
+- [Getting Started](#-getting-started)
+- [Curriculum](#-curriculum)
+- [Resources](#-resources)
 
 ---
 
@@ -230,7 +230,6 @@ fun Greeting(name: String) {
 
 ### Free Courses
 - [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
-- [Kotlin Bootcamp](https://developer.android.com/courses/kotlin-bootcamp/overview)
 - [Philipp Lackner YouTube](https://www.youtube.com/@PhilippLackner)
 
 ### Books

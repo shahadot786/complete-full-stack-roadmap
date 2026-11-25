@@ -141,7 +141,6 @@
 ### UI Challenges
 - [Flutter UI Challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
 - [Flutter Awesome](https://flutterawesome.com/)
-- [Dribbble to Flutter](https://github.com/nickatnight/awesome-flutter-ui)
 
 ### Open Source Projects
 - [Flutter Gallery](https://github.com/flutter/gallery)
@@ -150,7 +149,6 @@
 
 ### Starter Templates
 - [Very Good CLI](https://verygood.ventures/solution/very-good-cli)
-- [Flutter Starter](https://github.com/petercinibulk/flutter_starter)
 - [Flutter Boilerplate](https://github.com/zubairehman/flutter-boilerplate-project)
 
 ---
@@ -182,7 +180,6 @@
 ## 📱 Conferences
 
 - [Flutter Forward](https://flutter.dev/events/flutter-forward)
-- [FlutterCon](https://fluttercon.dev/)
 - [Flutter Vikings](https://fluttervikings.com/)
 - [Flutteristas Conference](https://flutteristas.org/)
 

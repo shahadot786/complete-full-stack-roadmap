@@ -29,7 +29,6 @@ Version control is essential for collaboration and CI/CD. Git is the industry st
 
 ## 🎥 Top Video Resources
 - [Git for Professionals (FreeCodeCamp)](https://www.youtube.com/watch?v=Uszj_k0DGsg)
-- [Advanced Git Tutorial (Learn Code with Durgesh)](https://www.youtube.com/watch?v=fwa7f0u3YyM)
 
 ## 🛠️ Hands-on Projects
 1. **GitHub Flow Simulation:** Practice PRs, code reviews, and merging.
@@ -38,4 +37,3 @@ Version control is essential for collaboration and CI/CD. Git is the industry st
 
 ## 📝 Exercises
 - [Learning Git Branching](https://learngitbranching.js.org/) - Visual interactive tool
-- [Git Exercises (GitHub)](https://github.com/jlewallen/git-exercises)

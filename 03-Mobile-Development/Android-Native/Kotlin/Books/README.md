@@ -31,7 +31,6 @@
 | Course | Platform | Link |
 |--------|----------|------|
 | **Android Basics with Compose** | Google | [Link](https://developer.android.com/courses/android-basics-compose/course) |
-| **Kotlin Bootcamp** | Google | [Link](https://developer.android.com/courses/kotlin-bootcamp/overview) |
 | **Philipp Lackner YouTube** | YouTube | [Channel](https://www.youtube.com/@PhilippLackner) |
 
 ### Paid

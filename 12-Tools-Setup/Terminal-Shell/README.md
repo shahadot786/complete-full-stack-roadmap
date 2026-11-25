@@ -6,11 +6,11 @@
 
 ## 📚 Table of Contents
 
-1. [Terminal Basics](#terminal-basics)
-2. [Essential Commands](#essential-commands)
-3. [Shell Customization](#shell-customization)
-4. [Productivity Tools](#productivity-tools)
-5. [Scripting Basics](#scripting-basics)
+1. [Terminal Basics](#-terminal-basics)
+2. [Essential Commands](#-essential-commands)
+3. [Shell Customization](#-shell-customization)
+4. [Productivity Tools](#️-productivity-tools)
+5. [Scripting Basics](#-scripting-basics)
 
 ---
 

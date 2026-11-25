@@ -11,12 +11,12 @@
 
 ## 📚 Table of Contents
 
-- [Learning Path Overview](#learning-path-overview)
-- [Technology Comparison](#technology-comparison)
-- [Language Tracks](#language-tracks)
-- [Career Paths](#career-paths)
-- [Projects to Build](#projects-to-build)
-- [Resources](#resources)
+- [Learning Path Overview](#️-learning-path-overview)
+- [Technology Comparison](#️-technology-comparison)
+- [Language Tracks](#-language-tracks)
+- [Career Paths](#-career-paths)
+- [Projects to Build](#-projects-to-build)
+- [Resources](#-resources)
 
 ---
 

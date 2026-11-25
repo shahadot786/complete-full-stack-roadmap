@@ -6,4 +6,3 @@
 
 ## Key Concepts
 - **[Database Sharding Explained](https://www.youtube.com/watch?v=5faMjKuB9bc)**
-- **[CAP Theorem](https://www.youtube.com/watch?v=BHqjEjzAicg)**

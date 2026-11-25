@@ -17,10 +17,5 @@ By the end of this level, you should be able to:
 3. Use tools like Burp Suite, Metasploit, and Nmap.
 4. Write penetration testing reports.
 
-## 📚 Level Resources
-- [Books](./Books/) - Recommended reading
-- [Videos](./Videos/) - Video courses
-- [Projects](./Projects/) - Hands-on projects
-
 ## ➡️ Next Steps
 Move on to **[Advanced Level](../03-Advanced/)** for exploit development and malware analysis.

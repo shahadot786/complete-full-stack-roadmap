@@ -4,7 +4,6 @@ Test your branching and merging skills.
 
 ## 🎮 Interactive Challenges
 - **[Learning Git Branching](https://learngitbranching.js.org/)** - An incredible visual simulator for every Git command imaginable.
-- **[Git Exercises (GitHub)](https://github.com/jlewallen/git-exercises)** - A suite of challenges you clone locally and solve.
 - **[Githug](https://github.com/Gazler/githug)** - A Ruby gem that provides 50+ levels of Git challenges.
 
 ## ⚡ Quick Tasks

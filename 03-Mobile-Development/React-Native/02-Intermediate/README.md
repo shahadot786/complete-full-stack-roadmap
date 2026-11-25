@@ -6,11 +6,11 @@
 
 ## 📋 Table of Contents
 
-- [State Management](#state-management)
-- [API Integration](#api-integration)
-- [Local Storage](#local-storage)
-- [Forms & Validation](#forms--validation)
-- [Native Features](#native-features)
+- [State Management](#️-state-management)
+- [API Integration](#-api-integration)
+- [Local Storage](#-local-storage)
+- [Forms & Validation](#-forms--validation)
+- [Native Features](#-native-features)
 
 ---
 

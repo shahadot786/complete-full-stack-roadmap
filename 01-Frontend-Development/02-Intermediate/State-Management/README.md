@@ -4,11 +4,11 @@
 
 ## 📚 Table of Contents
 
-- [When to Use State Management](#when-to-use-state-management)
-- [Context API](#context-api)
-- [Zustand](#zustand)
-- [Redux Toolkit](#redux-toolkit)
-- [Comparison](#comparison)
+- [When to Use State Management](#-when-to-use-state-management)
+- [Context API](#️-context-api)
+- [Zustand](#-zustand)
+- [Redux Toolkit](#-redux-toolkit)
+- [Comparison](#-comparison)
 
 ---
 

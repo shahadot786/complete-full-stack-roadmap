@@ -11,12 +11,12 @@
 
 ## 📚 Table of Contents
 
-- [Choose Your Path](#choose-your-path)
-- [Framework Comparison](#framework-comparison)
-- [Learning Paths](#learning-paths)
-- [Career Paths](#career-paths)
-- [Projects to Build](#projects-to-build)
-- [Resources](#resources)
+- [Choose Your Path](#-choose-your-path)
+- [Framework Comparison](#-framework-comparison)
+- [Learning Paths](#️-learning-paths)
+- [Career Paths](#-career-paths)
+- [Projects to Build](#-projects-to-build)
+- [Resources](#-resources)
 
 ---
 
@@ -266,7 +266,6 @@
 - [William Candillon](https://www.youtube.com/@wcandillon) - React Native animations
 - [Flutter](https://www.youtube.com/@flutterdev) - Official Flutter
 - [Philipp Lackner](https://www.youtube.com/@PhilippLackner) - Android/Kotlin
-- [Sean Allen](https://www.youtube.com/@sloandevelopment) - iOS/Swift
 
 ### Communities
 - [React Native Discord](https://discord.gg/reactnative)

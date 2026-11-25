@@ -10,11 +10,11 @@
 
 ## 📋 Table of Contents
 
-1. [IDEs & Code Editors](#ides--code-editors)
-2. [Git & Version Control](#git--version-control)
-3. [Terminal & Shell](#terminal--shell)
-4. [Development Environment](#development-environment)
-5. [Essential Tools](#essential-tools)
+1. [IDEs & Code Editors](#-ides--code-editors)
+2. [Git & Version Control](#-git--version-control)
+3. [Terminal & Shell](#️-terminal--shell)
+4. [Development Environment](#-development-environment)
+5. [Essential Tools](#-essential-tools-checklist)
 
 ---
 

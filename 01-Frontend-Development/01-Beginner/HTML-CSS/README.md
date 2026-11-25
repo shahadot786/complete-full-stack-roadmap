@@ -4,12 +4,12 @@
 
 ## 📚 Table of Contents
 
-- [Semantic HTML5](#semantic-html5)
-- [CSS Grid & Flexbox](#css-grid--flexbox)
-- [Responsive Design](#responsive-design)
-- [Modern CSS Techniques](#modern-css-techniques)
-- [Accessibility](#accessibility)
-- [Resources](#resources)
+- [Semantic HTML5](#️-semantic-html5)
+- [CSS Grid & Flexbox](#-css-grid--flexbox)
+- [Responsive Design](#-responsive-design)
+- [Modern CSS Techniques](#-modern-css-techniques)
+- [Accessibility](#-accessibility-wcag-21)
+- [Resources](#-resources)
 
 ---
 

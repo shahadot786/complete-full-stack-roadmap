@@ -30,7 +30,6 @@ Scale databases across multiple machines.
 - **Distributed Systems** by Maarten van Steen
 
 ## 🎥 Top Videos
-- [CAP Theorem Explained](https://www.youtube.com/watch?v=BHqjEjzAicg)
 - [Database Sharding Explained](https://www.youtube.com/watch?v=5faMjKuB9bc)
 
 ## 🛠️ Projects

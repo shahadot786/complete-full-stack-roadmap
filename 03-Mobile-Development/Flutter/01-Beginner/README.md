@@ -6,11 +6,11 @@
 
 ## 📋 Table of Contents
 
-- [Dart Fundamentals](#dart-fundamentals)
-- [Flutter Basics](#flutter-basics)
-- [Layouts](#layouts)
-- [Navigation](#navigation)
-- [Exercises](#exercises)
+- [Dart Fundamentals](#-dart-fundamentals)
+- [Flutter Basics](#-flutter-basics)
+- [Layouts](#-layouts)
+- [Navigation](#-navigation)
+- [Exercises](#️-exercises)
 
 ---
 

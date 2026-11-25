@@ -11,4 +11,3 @@ Master the world's most popular cloud platform.
 
 ## 🔗 Free Resources
 - [AWS Whitepapers](https://aws.amazon.com/whitepapers/) - Official architecture deep-dives.
-- [Cloud Academy Blog](https://cloudacademy.com/blog/category/aws/) - Practical news and tutorials.

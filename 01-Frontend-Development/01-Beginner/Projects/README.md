@@ -145,7 +145,6 @@ Create a task management application with local storage.
 1 week
 
 ### 📚 Resources
-- [Todo App Tutorial](https://www.youtube.com/watch?v=Ttf3CEsEwMQ)
 - [LocalStorage Guide](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 ---

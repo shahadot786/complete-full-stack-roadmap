@@ -6,11 +6,11 @@
 
 ## 📚 Table of Contents
 
-1. [Git Basics](#git-basics)
-2. [Advanced Git](#advanced-git)
-3. [GitHub Workflows](#github-workflows)
-4. [Best Practices](#best-practices)
-5. [Troubleshooting](#troubleshooting)
+1. [Git Basics](#-git-basics)
+2. [Advanced Git](#-advanced-git-operations)
+3. [GitHub Workflows](#-github-workflows)
+4. [Best Practices](#-best-practices)
+5. [Troubleshooting](#-troubleshooting)
 
 ---
 

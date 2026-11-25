@@ -6,11 +6,11 @@
 
 ## 📋 Table of Contents
 
-- [Environment Setup](#environment-setup)
-- [Core Components](#core-components)
-- [Styling](#styling)
-- [Navigation](#navigation)
-- [Exercises](#exercises)
+- [Environment Setup](#-environment-setup)
+- [Core Components](#-core-components)
+- [Styling](#-styling)
+- [Navigation](#-navigation)
+- [Exercises](#️-exercises)
 
 ---
 

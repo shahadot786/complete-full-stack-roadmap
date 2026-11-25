@@ -10,11 +10,11 @@
 
 ## 📚 Table of Contents
 
-- [Why Native iOS?](#why-native-ios)
-- [Learning Path](#learning-path)
-- [Getting Started](#getting-started)
-- [Curriculum](#curriculum)
-- [Resources](#resources)
+- [Why Native iOS?](#-why-native-ios)
+- [Learning Path](#️-learning-path)
+- [Getting Started](#-getting-started)
+- [Curriculum](#-curriculum)
+- [Resources](#-resources)
 
 ---
 
@@ -292,7 +292,6 @@ struct TaskListView: View {
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [Stanford CS193p](https://cs193p.sites.stanford.edu/)
-- [Apple Developer Tutorials](https://developer.apple.com/tutorials/)
 
 ### Books
 - "Swift Programming" by Big Nerd Ranch
@@ -300,7 +299,6 @@ struct TaskListView: View {
 - "Pro iPhone Development with Swift 5" by Wallace Wang
 
 ### YouTube Channels
-- [Sean Allen](https://www.youtube.com/@sloandevelopment)
 - [Paul Hudson](https://www.youtube.com/@twostraws)
 - [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking)
 - [Kodeco](https://www.youtube.com/@Kodeco)

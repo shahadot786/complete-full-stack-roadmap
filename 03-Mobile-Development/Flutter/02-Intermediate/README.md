@@ -6,11 +6,11 @@
 
 ## 📋 Table of Contents
 
-- [State Management](#state-management)
-- [Networking](#networking)
-- [Local Storage](#local-storage)
-- [Forms & Validation](#forms--validation)
-- [Theming](#theming)
+- [State Management](#️-state-management)
+- [Networking](#-networking)
+- [Local Storage](#-local-storage)
+- [Forms & Validation](#-forms--validation)
+- [Theming](#-theming)
 
 ---
 

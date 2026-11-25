@@ -52,7 +52,6 @@
 | [William Candillon](https://www.youtube.com/@wcandillon) | Animations | Reanimated, gestures |
 | [Catalin Miron](https://www.youtube.com/@CatalinMironDev) | UI/UX | Beautiful interfaces |
 | [NotJust.dev](https://www.youtube.com/@notjustdev) | Projects | Full app tutorials |
-| [Simon Grimm](https://www.youtube.com/@galaxaborhood) | Ionic/RN | Cross-platform |
 | [Expo](https://www.youtube.com/@expo_dev) | Expo | Official tutorials |
 
 ---
@@ -95,7 +94,6 @@
 - [Axios](https://axios-http.com/)
 
 ### Storage
-- [AsyncStorage](https://react-native-async-storage.github.io/async-storage/)
 - [MMKV](https://github.com/mrousavy/react-native-mmkv)
 - [WatermelonDB](https://nozbe.github.io/WatermelonDB/)
 
@@ -124,7 +122,6 @@
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/react-native)
 
 ### Conferences
-- [React Native EU](https://react-native.eu/)
 - [App.js Conf](https://appjs.co/)
 - [Chain React](https://chainreactconf.com/)
 

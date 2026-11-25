@@ -9,7 +9,6 @@ Quick references for the most important libraries.
 - [Seaborn Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
 
 ## SQL
-- [SQL Cheatsheet (Mode)](https://mode.com/sql-cheat-sheet/)
 - [PostgreSQL Cheatsheet](https://www.postgresqltutorial.com/postgresql-cheat-sheet/)
 
 ## Statistics

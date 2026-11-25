@@ -7,7 +7,6 @@
 
 ## A/B Testing Practice
 - **[Optimizely Academy](https://www.optimizely.com/optimization-glossary/ab-testing/)** - Experimentation training
-- **[VWO Case Studies](https://vwo.com/ab-testing-case-studies/)** - Real-world examples
 
 ## Quick Tasks
 1. Calculate the required sample size for an A/B test with 5% MDE.

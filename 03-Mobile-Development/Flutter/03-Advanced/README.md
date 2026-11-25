@@ -6,11 +6,11 @@
 
 ## 📋 Table of Contents
 
-- [Advanced UI](#advanced-ui)
-- [Animations](#animations)
-- [Architecture](#architecture)
-- [Testing](#testing)
-- [Publishing](#publishing)
+- [Advanced UI](#-advanced-ui)
+- [Animations](#-animations)
+- [Architecture](#️-architecture)
+- [Testing](#-testing)
+- [Publishing](#-publishing)
 
 ---
 

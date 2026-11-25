@@ -6,11 +6,11 @@
 
 ## 📋 Table of Contents
 
-- [Performance Optimization](#performance-optimization)
-- [Animations](#animations)
-- [Testing](#testing)
-- [App Publishing](#app-publishing)
-- [CI/CD](#cicd)
+- [Performance Optimization](#-performance-optimization)
+- [Animations](#-animations)
+- [Testing](#-testing)
+- [App Publishing](#-app-publishing)
+- [CI/CD](#-cicd)
 
 ---
 

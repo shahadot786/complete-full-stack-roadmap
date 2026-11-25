@@ -6,11 +6,11 @@
 
 ## 📚 Table of Contents
 
-1. [Node.js & JavaScript](#nodejs--javascript)
-2. [Python](#python)
-3. [Java](#java)
-4. [Docker](#docker)
-5. [Database Tools](#database-tools)
+1. [Node.js & JavaScript](#-nodejs--javascript)
+2. [Python](#-python)
+3. [Java](#-java)
+4. [Docker](#-docker)
+5. [Database Tools](#️-database-tools)
 
 ---
 
