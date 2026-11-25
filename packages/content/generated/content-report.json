@@ -1,0 +1,94 @@
+{
+  "corpus": {
+    "markdownFiles": 397,
+    "resourceLinks": 1289,
+    "uniqueResources": 565
+  },
+  "roadmaps": [
+    {
+      "slug": "frontend",
+      "status": "full",
+      "groups": 3,
+      "nodes": 13,
+      "resources": 69
+    },
+    {
+      "slug": "backend",
+      "status": "full",
+      "groups": 3,
+      "nodes": 23,
+      "resources": 43
+    },
+    {
+      "slug": "mobile",
+      "status": "outline",
+      "groups": 4,
+      "nodes": 8,
+      "resources": 62
+    },
+    {
+      "slug": "devops",
+      "status": "full",
+      "groups": 3,
+      "nodes": 11,
+      "resources": 74
+    },
+    {
+      "slug": "data-science",
+      "status": "outline",
+      "groups": 3,
+      "nodes": 7,
+      "resources": 60
+    },
+    {
+      "slug": "ai-ml",
+      "status": "outline",
+      "groups": 3,
+      "nodes": 7,
+      "resources": 29
+    },
+    {
+      "slug": "databases",
+      "status": "outline",
+      "groups": 3,
+      "nodes": 7,
+      "resources": 18
+    },
+    {
+      "slug": "cyber-security",
+      "status": "outline",
+      "groups": 3,
+      "nodes": 6,
+      "resources": 14
+    },
+    {
+      "slug": "game-development",
+      "status": "outline",
+      "groups": 4,
+      "nodes": 7,
+      "resources": 16
+    },
+    {
+      "slug": "blockchain",
+      "status": "outline",
+      "groups": 3,
+      "nodes": 6,
+      "resources": 14
+    },
+    {
+      "slug": "interview-prep",
+      "status": "outline",
+      "groups": 4,
+      "nodes": 40,
+      "resources": 161
+    },
+    {
+      "slug": "tools",
+      "status": "outline",
+      "groups": 4,
+      "nodes": 4,
+      "resources": 30
+    }
+  ],
+  "issues": []
+}

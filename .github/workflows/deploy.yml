@@ -1,0 +1,59 @@
+name: Deploy
+
+# Manual dispatch only: publishing always requires an explicit human action.
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: Deployment target
+        required: true
+        default: preview
+        type: choice
+        options:
+          - preview
+          - production
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: ${{ inputs.environment }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9.15.4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+      - uses: browser-actions/setup-chrome@v1
+        id: chrome
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm lint
+      - run: pnpm typecheck
+      - run: pnpm content:check
+      - run: pnpm content:links
+      - run: pnpm test
+      - run: pnpm build
+        env:
+          CHROME_PATH: ${{ steps.chrome.outputs.chrome-path }}
+          VITE_SITE_URL: ${{ inputs.environment == 'production' && vars.SITE_URL || 'https://stackpath.pages.dev' }}
+      - run: pnpm site:check
+      - run: pnpm e2e
+        env:
+          CHROME_PATH: ${{ steps.chrome.outputs.chrome-path }}
+      - uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: >-
+            pages deploy apps/web/build/client
+            --project-name=${{ vars.CLOUDFLARE_PAGES_PROJECT }}
+            --branch=${{ github.ref_name }}

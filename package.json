@@ -1,0 +1,33 @@
+{
+  "name": "stackpath",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "pnpm --filter @stackpath/web dev",
+    "build": "node tools/generate-site-assets.mjs && pnpm --filter @stackpath/web build && node tools/prepare-static.mjs",
+    "site:assets": "node tools/generate-site-assets.mjs",
+    "site:check": "node tools/check-site.mjs",
+    "preview": "node tools/preview-server.mjs",
+    "e2e": "node tools/e2e-check.mjs",
+    "typecheck": "pnpm -r --if-present typecheck",
+    "lint": "eslint . --max-warnings 0",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "content:build": "pnpm --filter @stackpath/content build",
+    "content:check": "pnpm --filter @stackpath/content check",
+    "content:links": "node tools/check-content-links.mjs",
+    "i18n:check": "node tools/check-i18n.mjs"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.30.0",
+    "@vitest/coverage-v8": "^3.2.0",
+    "eslint": "^9.30.0",
+    "globals": "^16.3.0",
+    "typescript": "^5.9.0",
+    "typescript-eslint": "^8.38.0",
+    "vitest": "^3.2.0"
+  }
+}

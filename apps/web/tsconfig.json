@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "rootDirs": [".", "./.react-router/types"],
+    "types": ["vite/client", "node"],
+    "noEmit": true
+  },
+  "include": [
+    "app/**/*.ts",
+    "app/**/*.tsx",
+    ".react-router/types/**/*.ts",
+    "vite.config.ts",
+    "react-router.config.ts"
+  ]
+}

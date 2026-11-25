@@ -142,8 +142,8 @@
 #### Resources
 - 📚 [Books & Courses](./01-Beginner/Books/)
 - 🎥 [Video Tutorials](./01-Beginner/Videos/)
-- 💻 [Practice Exercises](./01-Beginner/Exercises/)
-- 🚀 [Project Templates](./01-Beginner/Projects/)
+- 💻 [Practice Exercises](../../extra/frontend-exercises/)
+- 🚀 [Project Templates](../../extra/frontend-projects/)
 
 ---
 
