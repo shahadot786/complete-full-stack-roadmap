@@ -5,7 +5,6 @@ Refine your HCL and YAML syntax.
 ## 🎮 Interactive Challenges
 - **[HashiCorp Learn](https://developer.hashicorp.com/terraform/tutorials)** - Excellent official tutorials with built-in terminals.
 - **[Ansible Galaxy](https://galaxy.ansible.com/)** - Explore and try to use existing roles created by the community.
-- **[Terraform Quiz (TutorialsPoint)](https://www.tutorialspoint.com/terraform/terraform_online_quiz.htm)** - Conceptual check.
 
 ## ⚡ Quick Tasks
 1. **State Hunter:** Find where your `terraform.tfstate` file is and explain why you should never delete it manually.

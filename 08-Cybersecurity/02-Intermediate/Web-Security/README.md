@@ -33,10 +33,6 @@ The OWASP Top 10 and beyond.
 - **Bug Bounty Bootcamp** by Vickie Li
 - **Real-World Bug Hunting** by Peter Yaworski
 
-## 🎥 Top Videos
-- [OWASP Top 10 (TryHackMe)](https://www.youtube.com/watch?v=qM37HgZ_fMw)
-- [Burp Suite Tutorial](https://www.youtube.com/watch?v=G3hpAeoq4IM)
-
 ## 🛠️ Projects
 1. **DVWA Exploitation** - Practice on Damn Vulnerable Web App
 2. **Bug Bounty Report** - Find and report a real vulnerability

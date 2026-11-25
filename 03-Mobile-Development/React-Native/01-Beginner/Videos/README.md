@@ -121,7 +121,6 @@
 
 ## 🔗 Quick Links
 
-- [React Native Official YouTube](https://www.youtube.com/@ReactNativeOfficial)
 - [Expo YouTube](https://www.youtube.com/@expo_dev)
 - [freeCodeCamp React Native](https://www.youtube.com/results?search_query=freecodecamp+react+native)
 

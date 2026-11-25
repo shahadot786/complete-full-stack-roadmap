@@ -48,7 +48,6 @@
 
 | Channel | Focus |
 |---------|-------|
-| [Sean Allen](https://www.youtube.com/@sloandevelopment) | iOS development |
 | [Paul Hudson](https://www.youtube.com/@twostraws) | Swift/SwiftUI |
 | [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking) | SwiftUI |
 | [Kodeco](https://www.youtube.com/@Kodeco) | Tutorials |

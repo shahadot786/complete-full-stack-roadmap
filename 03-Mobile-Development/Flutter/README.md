@@ -10,12 +10,12 @@
 
 ## 📚 Table of Contents
 
-- [Why Flutter?](#why-flutter)
-- [Learning Path Overview](#learning-path-overview)
-- [Getting Started](#getting-started)
-- [Detailed Curriculum](#detailed-curriculum)
-- [Projects to Build](#projects-to-build)
-- [Resources](#resources)
+- [Why Flutter?](#-why-flutter)
+- [Learning Path Overview](#️-learning-path-overview)
+- [Getting Started](#-getting-started)
+- [Detailed Curriculum](#-detailed-curriculum)
+- [Projects to Build](#️-projects-to-build)
+- [Resources](#-resources)
 
 ---
 

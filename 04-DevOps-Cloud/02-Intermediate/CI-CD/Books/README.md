@@ -10,5 +10,4 @@ Master the philosophy and tools of continuous automation.
 | **Learning GitHub Actions** | Brent Laster | Beginner | Practical guide to the most popular CI tool. |
 
 ## 🔗 Free Resources
-- [The CI/CD Book (Sematext)](https://sematext.com/guides/ci-cd/)
 - [Modern CI/CD (DigitalOcean Guide)](https://www.digitalocean.com/community/conceptual-articles/an-introduction-to-ci-cd-best-practices)

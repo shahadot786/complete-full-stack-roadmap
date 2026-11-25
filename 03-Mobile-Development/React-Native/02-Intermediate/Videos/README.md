@@ -8,19 +8,6 @@
 
 ### State Management
 
-#### Zustand Tutorial
-**By:** Cosden Solutions  
-**Duration:** 30 min  
-**Link:** [YouTube](https://www.youtube.com/watch?v=KEc0LLQjGQI)
-
-**Covers:**
-- Zustand setup
-- Store creation
-- Actions and selectors
-- Persistence
-
----
-
 #### Redux Toolkit in React Native
 **By:** Academind  
 **Duration:** 1 hour  

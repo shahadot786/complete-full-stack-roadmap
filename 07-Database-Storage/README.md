@@ -29,7 +29,6 @@ Master data persistence from SQL fundamentals to distributed systems.
 
 ## 🧰 Global Resources
 - [Cheatsheets](./Resources/Cheatsheets/) - SQL syntax quick references
-- [Tools](./Resources/Tools/) - Database management tools
 
 ## 🏆 Project Portfolio Ideas
 1. **E-commerce Database** - Products, orders, users schema

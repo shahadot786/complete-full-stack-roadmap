@@ -10,12 +10,12 @@
 
 ## 📚 Table of Contents
 
-- [Why React Native?](#why-react-native)
-- [Learning Path Overview](#learning-path-overview)
-- [Getting Started](#getting-started)
-- [Detailed Curriculum](#detailed-curriculum)
-- [Projects to Build](#projects-to-build)
-- [Resources](#resources)
+- [Why React Native?](#-why-react-native)
+- [Learning Path Overview](#️-learning-path-overview)
+- [Getting Started](#-getting-started)
+- [Detailed Curriculum](#-detailed-curriculum)
+- [Projects to Build](#️-projects-to-build)
+- [Resources](#-resources)
 
 ---
 

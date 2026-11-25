@@ -17,10 +17,5 @@ By the end of this level, you should be able to:
 3. Use basic networking tools (nmap, Wireshark).
 4. Configure basic firewall rules.
 
-## 📚 Level Resources
-- [Books](./Books/) - Recommended reading
-- [Videos](./Videos/) - Video courses
-- [Projects](./Projects/) - Hands-on projects
-
 ## ➡️ Next Steps
 Move on to **[Intermediate Level](../02-Intermediate/)** for web security and pentesting.

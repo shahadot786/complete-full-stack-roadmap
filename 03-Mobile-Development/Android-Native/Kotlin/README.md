@@ -6,11 +6,11 @@
 
 ## 📋 Table of Contents
 
-- [Kotlin Basics](#kotlin-basics)
-- [Object-Oriented Programming](#object-oriented-programming)
-- [Functional Programming](#functional-programming)
-- [Coroutines](#coroutines)
-- [Android with Kotlin](#android-with-kotlin)
+- [Kotlin Basics](#-kotlin-basics)
+- [Object-Oriented Programming](#️-object-oriented-programming)
+- [Functional Programming](#-functional-programming)
+- [Coroutines](#-coroutines)
+- [Android with Kotlin](#-android-with-kotlin)
 
 ---
 
@@ -544,7 +544,6 @@ data class UserUiState(
 ## 📚 Resources
 
 - [Kotlin Documentation](https://kotlinlang.org/docs/)
-- [Kotlin Koans](https://play.kotlinlang.org/koans/)
 - [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-fundamentals/course)
 - [Kotlin for Android Developers](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 

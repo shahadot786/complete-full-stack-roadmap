@@ -4,12 +4,12 @@
 
 ## 📚 Table of Contents
 
-- [Getting Started](#getting-started)
-- [React 18+ Features](#react-18-features)
-- [Hooks Deep Dive](#hooks-deep-dive)
-- [Component Patterns](#component-patterns)
-- [React Router v6](#react-router-v6)
-- [Best Practices](#best-practices)
+- [Getting Started](#-getting-started)
+- [React 18+ Features](#-react-18-features)
+- [Hooks Deep Dive](#-hooks-deep-dive)
+- [Component Patterns](#-component-patterns)
+- [React Router v6](#️-react-router-v6)
+- [Best Practices](#-best-practices)
 
 ---
 

@@ -6,11 +6,11 @@
 
 ## 📋 Table of Contents
 
-- [Swift Basics](#swift-basics)
-- [Object-Oriented Programming](#object-oriented-programming)
-- [Protocols and Extensions](#protocols-and-extensions)
-- [Concurrency](#concurrency)
-- [SwiftUI Essentials](#swiftui-essentials)
+- [Swift Basics](#-swift-basics)
+- [Object-Oriented Programming](#️-object-oriented-programming)
+- [Protocols and Extensions](#-protocols-and-extensions)
+- [Concurrency](#-concurrency)
+- [SwiftUI Essentials](#-swiftui-essentials)
 
 ---
 

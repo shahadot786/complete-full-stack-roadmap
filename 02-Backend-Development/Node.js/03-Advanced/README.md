@@ -339,6 +339,5 @@ volumes:
 
 - [Microservices Patterns](https://microservices.io/patterns/)
 - [GraphQL Best Practices](https://graphql.org/learn/best-practices/)
-- [Node.js Performance](https://nodejs.org/en/docs/guides/simple-profiling/)
 
 **Congratulations!** You've mastered advanced Node.js concepts!

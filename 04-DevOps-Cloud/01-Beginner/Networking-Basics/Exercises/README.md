@@ -5,7 +5,6 @@ Sharpen your IP and protocol knowledge.
 ## 🎮 Interactive Challenges
 - **[Subnetting Practice](https://www.subnetting.net/)** - Drills to master CIDR and subnet math.
 - **[Cisco Packet Tracer Labs](https://www.netacad.com/courses/packet-tracer)** - Industry-standard software for building virtual networks.
-- **[Network World (HackerRank)](https://www.hackerrank.com/domains/networking)** - Conceptual questions.
 
 ## ⚡ Quick Tasks
 1. **IP Hunt:** Find your Public IP and Local IP using the command line.

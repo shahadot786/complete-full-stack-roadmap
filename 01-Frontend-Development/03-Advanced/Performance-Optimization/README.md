@@ -4,12 +4,12 @@
 
 ## 📚 Table of Contents
 
-- [Code Splitting & Lazy Loading](#code-splitting--lazy-loading)
-- [Web Vitals](#web-vitals)
-- [Bundle Optimization](#bundle-optimization)
-- [React Performance](#react-performance)
-- [Image Optimization](#image-optimization)
-- [Caching Strategies](#caching-strategies)
+- [Code Splitting & Lazy Loading](#️-code-splitting--lazy-loading)
+- [Web Vitals](#-web-vitals)
+- [Bundle Optimization](#-bundle-optimization)
+- [React Performance](#️-react-performance)
+- [Image Optimization](#️-image-optimization)
+- [Caching Strategies](#-caching-strategies)
 
 ---
 

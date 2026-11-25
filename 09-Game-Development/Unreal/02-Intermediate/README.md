@@ -24,9 +24,6 @@ C++ programming and advanced Unreal features.
 ## 📚 Books
 - **Learning C++ by Creating Games with UE5**
 
-## 🎥 Videos
-- [Unreal Engine C++ Tutorial](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYup-gvJtMsgJqnEA5SaHxE)
-
 ## 🛠️ Projects
 1. **Third Person Shooter** - Full game mechanics
 2. **AI Enemies** - Patrol and combat

@@ -31,7 +31,6 @@ Linux is the backbone of the internet and most cloud infrastructure. As a DevOps
 
 ## 🎥 Top Video Resources
 - [Linux for Beginners (FreeCodeCamp)](https://www.youtube.com/watch?v=wBp0Rb-ZJak)
-- [Linux Essentials (NetworkChuck)](https://www.youtube.com/playlist?list=PLIhvC56v6w88j7ndSlnXAnp997vNfV_S6)
 
 ## 🛠️ Hands-on Projects
 1. **System Health Check:** Create a script that displays CPU usage, RAM, and Disk space.

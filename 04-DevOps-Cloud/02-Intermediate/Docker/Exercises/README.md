@@ -4,8 +4,6 @@ Quick labs to test your container muscle memory.
 
 ## 🎮 Interactive Labs
 - **[Play with Docker](https://labs.play-with-docker.com/)** - A free, browser-based playground provided by Docker.
-- **[Docker Skills (GitHub)](https://github.com/skills/introduction-to-github-actions)** - (Note: Focus on the Docker-related skills).
-- **[Katacoda (Now O'Reilly)](https://www.oreilly.com/interactive/search.html?q=docker)** - Excellent scenario-based training.
 
 ## ⚡ Quick Tasks
 1. **Container Exec:** Run an Nginx container in the background, then use `docker exec` to change the `index.html` file inside it.

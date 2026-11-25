@@ -12,13 +12,13 @@
 
 ## 📚 Table of Contents
 
-- [Learning Path Overview](#learning-path-overview)
-- [Technology Stack](#technology-stack)
-- [Detailed Curriculum](#detailed-curriculum)
-- [Career Paths](#career-paths)
-- [Projects to Build](#projects-to-build)
+- [Learning Path Overview](#️-learning-path-overview)
+- [Technology Stack](#️-technology-stack)
+- [Detailed Curriculum](#-detailed-curriculum)
+- [Career Paths](#-career-paths)
+- [Projects to Build](#-projects-to-build)
 - [Resources](#resources)
-- [Interview Preparation](#interview-preparation)
+- [Interview Preparation](#-interview-preparation)
 
 ---
 

@@ -4,12 +4,12 @@
 
 ## 📚 Table of Contents
 
-- [Mobile-First Design](#mobile-first-design)
-- [Media Queries](#media-queries)
-- [Responsive Typography](#responsive-typography)
-- [Responsive Images](#responsive-images)
-- [CSS Frameworks](#css-frameworks)
-- [Best Practices](#best-practices)
+- [Mobile-First Design](#-mobile-first-design)
+- [Media Queries](#-media-queries)
+- [Responsive Typography](#-responsive-typography)
+- [Responsive Images](#️-responsive-images)
+- [CSS Frameworks](#-css-frameworks)
+- [Best Practices](#-best-practices)
 
 ---
 

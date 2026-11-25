@@ -29,7 +29,6 @@ Stop clicking buttons in the UI. Define your infrastructure in code for consiste
 
 ## 🎥 Top Video Resources
 - [Terraform Course (FreeCodeCamp)](https://www.youtube.com/watch?v=SLB_c_ayRMo)
-- [Ansible Tutorial for Beginners (Jeff Geerling)](https://www.youtube.com/playlist?list=PL2_OBreMn7FqZkvW01GsiG5Y_XhG-E68v)
 
 ## 🛠️ Hands-on Projects
 1. **Terraform S3 Bucket:** Deploy an S3 bucket with versioning enabled using Terraform.

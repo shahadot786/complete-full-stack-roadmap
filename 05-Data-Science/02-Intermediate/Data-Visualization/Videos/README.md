@@ -7,4 +7,3 @@
 
 ## Key Concepts
 - **[Choosing Chart Types](https://www.youtube.com/watch?v=C07k0euBpr8)** - Decision framework
-- **[Color in Data Viz](https://www.youtube.com/watch?v=b5Zx0qpCLhc)** - Theory and practice

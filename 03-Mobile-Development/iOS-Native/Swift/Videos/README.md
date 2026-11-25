@@ -22,18 +22,10 @@ Free university course.
 
 ---
 
-### SwiftUI Fundamentals
-**By:** Sean Allen  
-**Duration:** 10+ hours  
-**Link:** [YouTube](https://www.youtube.com/@sloandevelopment)
-
----
-
 ## 📺 YouTube Channels
 
 | Channel | Focus |
 |---------|-------|
-| [Sean Allen](https://www.youtube.com/@sloandevelopment) | iOS |
 | [Paul Hudson](https://www.youtube.com/@twostraws) | Swift |
 | [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking) | SwiftUI |
 | [Kodeco](https://www.youtube.com/@Kodeco) | Tutorials |

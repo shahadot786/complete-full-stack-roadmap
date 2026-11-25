@@ -17,11 +17,6 @@ By the end of this level, you should be able to:
 3. Analyze malware samples safely.
 4. Conduct digital forensics investigations.
 
-## 📚 Level Resources
-- [Books](./Books/) - Advanced reading
-- [Videos](./Videos/) - Video courses
-- [Projects](./Projects/) - Capstone projects
-
 ## 🏆 What's Next?
 - **OSCP Certification** - Industry gold standard
 - **Bug Bounty Programs** - Real-world practice

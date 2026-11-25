@@ -4,12 +4,12 @@
 
 ## 📚 Table of Contents
 
-- [Getting Started](#getting-started)
-- [Composition API Basics](#composition-api-basics)
-- [Reactivity](#reactivity)
-- [Component Communication](#component-communication)
-- [Vue Router](#vue-router)
-- [Best Practices](#best-practices)
+- [Getting Started](#-getting-started)
+- [Composition API Basics](#-composition-api-basics)
+- [Reactivity](#-reactivity)
+- [Component Communication](#-component-communication)
+- [Vue Router](#️-vue-router)
+- [Best Practices](#-best-practices)
 
 ---
 

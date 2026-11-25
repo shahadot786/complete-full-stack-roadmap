@@ -10,11 +10,11 @@
 
 ## 📋 Table of Contents
 
-1. [Data Structures & Algorithms](#data-structures--algorithms)
-2. [System Design](#system-design)
-3. [Behavioral Questions](#behavioral-questions)
-4. [Company-Specific Prep](#company-specific-preparation)
-5. [Study Plan](#study-plan)
+1. [Data Structures & Algorithms](#-data-structures--algorithms)
+2. [System Design](#️-system-design)
+3. [Behavioral Questions](#️-behavioral-questions)
+4. [Company-Specific Prep](#-company-specific-preparation)
+5. [Study Plan](#-12-week-study-plan)
 
 ---
 
